@@ -7,6 +7,9 @@
   </a>
 </div>
 <br>
+<p align="center">
+	<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=22&duration=4749&pause=1250&color=5094F0&center=true&vCenter=true&lines=Eu+Sou+Miguelangel;:3+" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
 
